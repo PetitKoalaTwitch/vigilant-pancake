@@ -1,5 +1,5 @@
 if (theUser == "PetitKoala__") {
-    "/ban night"
+    "/timeout night 30"
 } else {
     "/me bon matin. (" + theUser + ") ALLLLLL"
 }
