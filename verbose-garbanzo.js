@@ -1,5 +1,5 @@
 if (theUser == "PetitKoala__") {
-    "/ban nightbot"
+    "/ban night"
 } else {
     "/me bon matin. (" + theUser + ") ALLLLLL"
 }
