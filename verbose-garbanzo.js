@@ -1,1 +1,1 @@
-user + " hello!"
+theUser + " hello!"
