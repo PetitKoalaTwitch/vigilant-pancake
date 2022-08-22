@@ -1,1 +1,1 @@
-"$(user)"
+user + " is a noob"
