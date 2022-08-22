@@ -1,1 +1,1 @@
-"$(touser)"
+user + " hello!"
